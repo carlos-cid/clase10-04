@@ -1,3 +1,8 @@
+body{
+  padding-top:50px;/*esto es por el menu*/
+  
+}
+
 header,section,aside,footer{
   background:#fff;
 }
