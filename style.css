@@ -1,8 +1,7 @@
 body{
-  padding-top:50px;/*esto es por el menu*/
-  
+  padding-top:50px;/*esto lo sumo por el menú */
+  background:rgba(225,225,225,1);
 }
-
 footer{
   border-top:1px solid #aaa;
   padding-top:1em;
